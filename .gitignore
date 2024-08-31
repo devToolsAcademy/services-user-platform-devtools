@@ -360,4 +360,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+*.log
+
+.DS_Store
+
+coverage/
 # End of https://www.toptal.com/developers/gitignore/api/node,linux,windows,macos,react,visualstudiocode,intellij
